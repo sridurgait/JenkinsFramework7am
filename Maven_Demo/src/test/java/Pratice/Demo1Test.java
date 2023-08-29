@@ -6,7 +6,7 @@ public class Demo1Test {
 	@Test(groups="RegressionTest")
 	public void Demo1Test()
 	{
-		System.out.println("Maven Test");
+		System.out.println("Jenkins Test");
 	}
 
 }
